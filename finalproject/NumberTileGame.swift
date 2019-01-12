@@ -90,8 +90,6 @@ class NumberTileGameViewController : UIViewController, GameModelProtocol {
         super.viewDidLoad()
         setupGame()
         
-        
-        
     }
     
     func reset() {
