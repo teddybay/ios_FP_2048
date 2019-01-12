@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		C332E02B21EA415F00D306F3 /* GameboardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C332E02A21EA415F00D306F3 /* GameboardView.swift */; };
 		C332E02D21EA416E00D306F3 /* TileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C332E02C21EA416E00D306F3 /* TileView.swift */; };
-		C332E02F21EA41B600D306F3 /* Player.swift in Sources */ = {isa = PBXBuildFile; fileRef = C332E02E21EA41B600D306F3 /* Player.swift */; };
 		C332E03121EA421300D306F3 /* AccessoryViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = C332E03021EA421300D306F3 /* AccessoryViews.swift */; };
 		C332E03321EA473900D306F3 /* AppearanceProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = C332E03221EA473900D306F3 /* AppearanceProvider.swift */; };
 		C332E03721EA500B00D306F3 /* web1.swift in Sources */ = {isa = PBXBuildFile; fileRef = C332E03621EA500B00D306F3 /* web1.swift */; };
@@ -49,7 +48,6 @@
 /* Begin PBXFileReference section */
 		C332E02A21EA415F00D306F3 /* GameboardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameboardView.swift; sourceTree = "<group>"; };
 		C332E02C21EA416E00D306F3 /* TileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TileView.swift; sourceTree = "<group>"; };
-		C332E02E21EA41B600D306F3 /* Player.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Player.swift; sourceTree = "<group>"; };
 		C332E03021EA421300D306F3 /* AccessoryViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccessoryViews.swift; sourceTree = "<group>"; };
 		C332E03221EA473900D306F3 /* AppearanceProvider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppearanceProvider.swift; sourceTree = "<group>"; };
 		C332E03621EA500B00D306F3 /* web1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = web1.swift; sourceTree = "<group>"; };
@@ -152,7 +150,6 @@
 				C332E02421EA40F600D306F3 /* Models */,
 				C3DF9A8521E9BC450078CC08 /* ViewController.swift */,
 				C3DF9AB721E9E9110078CC08 /* NumberTileGame.swift */,
-				C332E02E21EA41B600D306F3 /* Player.swift */,
 				C332E03221EA473900D306F3 /* AppearanceProvider.swift */,
 				C332E03621EA500B00D306F3 /* web1.swift */,
 				C332E03A21EA520900D306F3 /* web2.swift */,
@@ -321,7 +318,6 @@
 				C3DF9A8621E9BC450078CC08 /* ViewController.swift in Sources */,
 				C332E03121EA421300D306F3 /* AccessoryViews.swift in Sources */,
 				C332E03B21EA520900D306F3 /* web2.swift in Sources */,
-				C332E02F21EA41B600D306F3 /* Player.swift in Sources */,
 				C332E03321EA473900D306F3 /* AppearanceProvider.swift in Sources */,
 				C332E02B21EA415F00D306F3 /* GameboardView.swift in Sources */,
 				C3DF9A8421E9BC450078CC08 /* AppDelegate.swift in Sources */,

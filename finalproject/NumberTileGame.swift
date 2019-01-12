@@ -27,7 +27,6 @@ class NumberTileGameViewController : UIViewController, GameModelProtocol {
     var board: GameboardView?
     var model: GameModel?
     var scoreView: ScoreViewProtocol?
-    var player: Player?
     
     var delegate: FetchScoreDelegate?
     
